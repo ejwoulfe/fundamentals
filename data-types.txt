@@ -1,0 +1,7 @@
+Boolean
+Number
+String
+null
+undefined
+Object
+Array (still an object)
