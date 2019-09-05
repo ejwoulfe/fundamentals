@@ -1,0 +1,6 @@
+HTML5 APIs - gelocation, local storage, third party APIs
+
+
+// LoL Champions used the Riot API.
+Fetched the data and parsed it into JSON.
+From there I gathered the information I needed.

@@ -1,0 +1,5 @@
+Maintaining State & Local Storage
+
+Used local storage, stringify object then parsed it back.
+
+Other types of storage also, session storage, web SQL, cookies, cache storage, application cache.
