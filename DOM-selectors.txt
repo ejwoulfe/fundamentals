@@ -1,0 +1,3 @@
+4 Ways in Vanilla JS
+document.getElementById, document.getElementsByClassName,  document.getElementsByTagName
+document.querySelector, document.querySelectorAll

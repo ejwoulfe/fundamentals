@@ -1,0 +1,6 @@
+CSS Selectors - Rule/Rule set, Property, and Value
+
+
+#element_name{  // rule or rule set
+font-weight: <- Property    700 <- Value ;
+}

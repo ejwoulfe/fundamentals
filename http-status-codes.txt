@@ -1,0 +1,6 @@
+ 100, 200, 300, 400, 500 Status Codes
+ 100 = Information, something is working
+ 200 Successful
+ 300 Redirect
+ 400 Problems on client side
+ 500 Problems with server side
