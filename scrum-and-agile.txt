@@ -1,0 +1,9 @@
+Scrum and Agile
+At school we used JIRA to control our sprints, the task or tickets, story poitns, assignments, etc.
+Each sprint was two weeks long, I had two projects one where I was just a member and the other where I was a team lead.
+As a team lead my job was to brainstorm the direction of the project or the goals we wanted to accomplish that sprint.
+And  also assign who would want to do which task, if 1 person could do this or if 2 were needed.
+At the end of the two weeks we had a sprint demo where we would present our progress to the class and teacher.
+
+
+Agile we were flexible on going back and redisigning things, and possible refractors in the code for a new feature the professor wants.

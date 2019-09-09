@@ -1,0 +1,3 @@
+Tools
+Notebook and pen, figma, github desktop, visual code studio (used to use atom), chrome inspector, 
+chrome react extension that shows props, components, state, and json formatter.

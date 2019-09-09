@@ -1,0 +1,61 @@
+SASS
+Variables, Mixins, reduce redundancy, nested CSS
+
+Pseudo-class
+hover, nth-child, focus, odd, even
+Used pseudo class in BDO Profit when displaying my tables. even rows had different color.
+
+Pseudo-element
+::before, ::after
+
+Create a Circle
+create a div
+border-radius: 50%;
+poly??
+
+
+Head tag
+Store 2 things: 
+1) external dependancies - stylesheets, scripts, js framework, bootstrap
+2) meta information - title of the page, responsive, seo?
+
+Meta tag
+chartset="UTF-8", description for web crawler, keywords, author
+
+div vs span
+both are containers
+div is block level element forces a new line and takes up the full line
+span is an inline element and will only take up as much space as it needs.
+
+accessibility
+aria labels, alt tags
+
+CSS Principles
+The less css the better, using figma?, organization
+
+Fonts
+I use google fonts. Link or stylesheet. 
+
+Adding CSS
+Inline, style tage on html page, stylesheets 
+
+Vendor Prefixes
+Checks which browser you are in and applies certain styles
+-webkit-transition: all 4s ease;
+-moz-transition: all 4s ease;
+-ms-transition: all 4s ease;
+-o-transition: all 4s ease;
+transition: all 4s ease; 
+
+
+CSS Grid vs Flexbox
+CSS Grid allows you to order items better and focus on horizontal and vertical setup
+Flexbox is better suited for single direction
+
+CSS Library
+Bootstrap
+Helps me with design, like navigation with collapse and drop downs, buttons, variations, and Modals.
+Con is muddies the HTML a bit.
+
+Z-Index
+Layers, helps put elements on top of others. I did an overaly to help darken my images so text appears more clearly and visibly.

@@ -1,0 +1,8 @@
+NPM
+
+Installed dependancies, like bootstrap, slider, etc.
+Package.json stores them.
+
+Core dependancies, React?
+
+Dev dependancies.
