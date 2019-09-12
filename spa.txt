@@ -1,5 +1,5 @@
 SPA - Single Page Applications
-Property vining???
+Property bining???
 Dynamically rewriting the current page rather than loading entire new pages from a server. 
 Routing - have only certain part of the page refresh instead of having everything load.
 Components - reuse certain parts like modals.
