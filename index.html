@@ -1,6 +1,35 @@
 <html>
   <head>
-    <script src="./app.js"></script>
+    <meta charset="UTF-8" />
   </head>
-  <body></body>
+  <body>
+    <h1>Title</h1>
+    <div id="main_container">
+      <h4>
+        Hello
+      </h4>
+    </div>
+    <table>
+      <th>Head</th>
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>4</td>
+        </tr>
+      </tbody>
+    </table>
+    <button id="myBtn">Click Me</button>
+  </body>
+  <footer>
+    Footer
+  </footer>
+  <script>
+    document.getElementById("myBtn").addEventListener("click", function() {
+      alert("I was just Clicked!");
+    });
+  </script>
 </html>
