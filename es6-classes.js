@@ -30,4 +30,5 @@ class Dog extends Animal {
 
 let fred = new Dog("Fred", 100, "Husky");
 
-console.log(fred);
+fred.eat(5);
+console.log(fred.energy);
